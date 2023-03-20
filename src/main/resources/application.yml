@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: "Excel Export Example"
+  profiles:
+    active: "dev"
